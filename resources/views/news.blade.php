@@ -5,3 +5,4 @@
 @section('content')
     <span>News Sezione</span>
 @endsection
+

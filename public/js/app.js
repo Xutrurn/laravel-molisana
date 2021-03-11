@@ -19425,9 +19425,7 @@ module.exports = function(module) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
-
-console.log('ciao');
+__webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js"); //console.log('ciao');
 
 /***/ }),
 
@@ -19481,8 +19479,8 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! E:\Corso Boolean\Programmi\mamp_public\2021-03\2021-03-10\pushed_to_github\laravel-molisana\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! E:\Corso Boolean\Programmi\mamp_public\2021-03\2021-03-10\pushed_to_github\laravel-molisana\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! E:\Corso Boolean\Programmi\mamp_public\2021-03\2021-03-11\esercizio_pomeriggio\03\laravel-molisana\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! E:\Corso Boolean\Programmi\mamp_public\2021-03\2021-03-11\esercizio_pomeriggio\03\laravel-molisana\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

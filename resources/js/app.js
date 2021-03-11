@@ -1,3 +1,3 @@
 require('./bootstrap');
 
-console.log('ciao');
+//console.log('ciao');
